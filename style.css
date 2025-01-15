@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.anakutu{
+    width: 100vw;
+    height: 100vh;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+   
+    
+}
+.navbar{ 
+    width: 100vw;
+    height: 50px;
+    background-color:white;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    
+    }
+    
+    
+    
+
+.n1{
+    width: 200px;
+    height: 50px;
+    background-color:pink;
+    margin: 15px;
+    text-align: center;
+    border-radius:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.n2{
+    width: 200px;
+    height: 50px;
+    background-color:pink;
+    text-align: center;
+    margin: 15px;
+    border-radius:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.n3{
+    width: 200px;
+    height: 50px;
+    background-color:pink;
+    text-align: center;
+    border-radius:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+    
+}
+
+ 
+ .main-content {
+    width: 75%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+ }
+ .baslik{
+    font-size: 60px;
+ }
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height:50px;
+    background-color:palevioletred;
+    border-radius: 50px
+ 
+ 
+
+
+
+}
+.center >  input[type="text"]{
+   width: 480px;
+   height: 35px;
+   border-radius: 50px;
+}
+
+    
+.kisayol{
+    width: 500px;
+    height: 50px;
+    background-color:white;
+    margin-top: 10px;
+    display: flex;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+}
+.foot1{
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    border: 1px solid black;
+}
+.foot2{
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+}
+.a1{
+    width: 300px;
+    height: 40px;
+    background-color:white;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.a3{
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+
+}
